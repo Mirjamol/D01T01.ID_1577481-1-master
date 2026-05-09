@@ -1,0 +1,5 @@
+1. nano door_management_files/door_configuration/door_1.conf
+2. Replace STATUS: CLOSED with STATUS: OPEN
+3. Ctrl + O
+4. Enter
+5. Ctrl + X
